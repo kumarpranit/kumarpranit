@@ -20,15 +20,16 @@
 
 <h2>📺 Product Management iterviews </h2>
 
-<h2> 🤳 Connect with me:</h2>
+<h2 align="center">🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/kumarpranit/">
-  <img alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/linkedin/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/kumarpranit/">
-  <img alt="Instagram" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
-</a>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumarpranit/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  <a href="https://www.instagram.com/kumarpranit/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="32" height="32"/>
+  </a>
+</p>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
