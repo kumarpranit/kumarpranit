@@ -28,7 +28,6 @@
 <a href="https://www.instagram.com/kumarpranit/">
   <img alt="Instagram" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
 </a>
-  
 <br/>
 
 <!--
