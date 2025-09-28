@@ -20,7 +20,7 @@
 
 <h2>📺 Product Management iterviews </h2>
 
-<h2 align="center">🤳 Connect with me:</h2>
+<h2 🤳 Connect with me:</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kumarpranit/" target="_blank">
