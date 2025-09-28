@@ -1,4 +1,4 @@
-<h1>Hello Everyone, I'm Pranit! <br/><a href="https://github.com/joshmadakor1">Product Manager</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Science enthusiast</a>,</h1>
+<h1>Hello Everyone, I'm Pranit! <br/><a href="https://github.com/joshmadakor1">Product Manager</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Science enthusiast</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
