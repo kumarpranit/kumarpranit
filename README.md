@@ -1,4 +1,12 @@
-<h1>Hello Everyone, I'm Pranit! <br/><a href="https://github.com/joshmadakor1">Product Analyst</a> and a <a href="https://www.linkedin.com/in/joshmadakor/">Data Engineer enthusiast</a></h1>
+<h1>Hello, I’m Pranit! 👋</h1>
+<p>
+I’m a <strong>dynamic product management professional</strong> with 10 years of experience spanning technology, consulting, and analytics across the insurance, travel, and utilities industries. 
+Currently, I’m pursuing my <strong>M.S. in Business Analytics at UCLA Anderson</strong>.
+</p>
+<p>
+I’m a self-starter passionate about <strong>product development, data-driven decision making, and multi-stakeholder management</strong>. 
+I thrive at the intersection of business, technology, and insights—transforming data into actionable strategies that drive growth.
+</p>
 
 <h2>👨‍💻 Data Analytics projects:</h2>
 
