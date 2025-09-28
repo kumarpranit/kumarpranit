@@ -36,7 +36,7 @@
         
         <!-- Header Row (Icon and Title) -->
         <div style="display: flex; align-items: flex-start; margin-bottom: 16px;">
-            <!-- Icon Placeholder (Simplified) -->
+            <!-- Icon Placeholder (SIMPLIFIED TO EMOJI FOR GITHUB COMPATIBILITY) -->
             <div style="
                 background-color: #e0e7ff; 
                 color: #4f46e5; 
@@ -48,11 +48,9 @@
                 justify-content: center; 
                 margin-right: 16px;
                 flex-shrink: 0;
+                font-size: 24px;
             ">
-                <!-- Lucide Database SVG (Often works on GitHub) -->
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5V19A9 3 0 0 0 21 19V5"/><path d="M3 12h18"/><path d="M3 19h18"/>
-                </svg>
+                🗄️
             </div>
             <div>
                 <h3 style="font-size: 1.25em; font-weight: bold; color: #1f2937; margin: 0;">Google Cloud Professional Data Engineer</h3>
