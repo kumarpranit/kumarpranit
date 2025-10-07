@@ -1,6 +1,3 @@
-<!-- NOTE: This file has been converted to use INLINE CSS and basic HTML tags for compatibility with GitHub README files. -->
-<!-- Tailwind CSS, custom <style> blocks, and HTML boilerplate have been removed as GitHub does not support them. -->
-
 <div align="center">
     <h1 style="font-size: 3em; margin-bottom: 0;">Hello, I’m Pranit! 👋</h1>
     <p style="font-size: 1.25em; color: #4b5563; margin-top: 0.5em; padding-bottom: 20px; border-bottom: 4px solid #4f46e5;">
