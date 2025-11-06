@@ -8,12 +8,9 @@
 <h2 style="font-size: 1.875em; margin-top: 30px; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">👨‍💻 Small Python Projects</h2>
 <div style="padding: 15px; background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 30px;">
         <p style="margin-top: 10px;">
-        🔗 <a href="https://github.com/kumarpranit/Data-Analyst-Projects" target="_blank" style="color: #2563eb; text-decoration: underline;">Small Python Projects</a>
+        🔗 <a href="https://github.com/kumarpranit/Data-Analyst-Projects" target="_blank" style="color: #2563eb; text-decoration: underline;">Python Projects</a>
     </p>
 </div>
-
-https://github.com/kumarpranit/Data-Analyst-Projects
-
 
 <h2 style="font-size: 1.875em; margin-top: 30px; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">👨‍💻 Large Language Model Projects</h2>
 <div style="padding: 15px; background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 30px;">
