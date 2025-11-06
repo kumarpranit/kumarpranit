@@ -5,7 +5,7 @@
     </p>
 </div>
 
-<h2 style="font-size: 1.875em; margin-top: 30px; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">👨‍💻 Data Analytics Projects</h2>
+<h2 style="font-size: 1.875em; margin-top: 30px; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">👨‍💻 Small Python Projects</h2>
 <div style="padding: 15px; background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 30px;">
     <p style="margin-top: 10px;">
         🔗 <a href="https://github.com/kumarpranit/Large-Language-Model-Projects" target="_blank" style="color: #2563eb; text-decoration: underline;">Large Language Model Application to generate Answers to technical Questions</a>
