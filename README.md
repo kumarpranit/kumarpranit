@@ -1,30 +1,45 @@
 <div align="center">
-    <h1 style="font-size: 3em; margin-bottom: 0;">Hello, I’m Pranit! 👋</h1>
+    <h1 style="font-size: 3em; margin-bottom: 0;">Hey, I'm Pranit! 👋</h1>
     <p style="font-size: 1.25em; color: #4b5563; margin-top: 0.5em; padding-bottom: 20px; border-bottom: 4px solid #4f46e5;">
-        A <a href="https://github.com/kumarpranit" style="color: #4f46e5; text-decoration: underline; font-weight: bold;">Product Strategist</a> and a <a href="https://www.linkedin.com/in/kumarpranit/" style="color: #4f46e5; text-decoration: underline; font-weight: bold;">Data-Driven Decision Maker</a>
+        MSBA @ <a href="https://www.anderson.ucla.edu/" style="color: #4f46e5; text-decoration: underline; font-weight: bold;">UCLA Anderson '26</a> | Product Strategy | AI & Data Analytics
     </p>
 </div>
 
-<h2 style="font-size: 1.875em; margin-top: 30px; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">👨‍💻 Small Python Projects</h2>
-<div style="padding: 15px; background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 30px;">
-        <p style="margin-top: 10px;">
-        🔗 <a href="https://github.com/kumarpranit/Data-Analyst-Projects" target="_blank" style="color: #2563eb; text-decoration: underline;">Python Projects</a>
-    </p>
-</div>
+---
 
-<h2 style="font-size: 1.875em; margin-top: 30px; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">👨‍💻 Large Language Model Projects</h2>
-<div style="padding: 15px; background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 30px;">
-    <p style="margin-top: 10px;">
-        🔗 <a href="https://github.com/kumarpranit/Large-Language-Model-Projects" target="_blank" style="color: #2563eb; text-decoration: underline;">Large Language Model Application to generate Answers to technical Questions</a>
-    </p>
-</div>
+### About Me
 
+I'm a graduate student at UCLA Anderson School of Management, pursuing my MSBA with a focus on Data & Product Analytics. Previously, I spent years at Accenture leading product and analytics initiatives across insurance and travel.
 
-<h2 style="font-size: 1.875em; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px;">📺 Product Management Interviews</h2>
-<div style="padding: 15px; background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 30px;">
-    <p style="color: #4b5563;">List your media presence, interviews, or content here. This demonstrates communication and thought leadership.</p>
-</div>
+I'm passionate about building at the intersection of **AI, product management, and data** — whether that's shipping agentic AI tools, writing about product strategy, or analyzing how Big Tech is reshaping the landscape.
 
-<h2 style="font-size: 1.875em; border-bottom: 2px solid #e5e7eb; padding-bottom: 8px; margin-bottom: 30px;">🏆 Core Certifications</h2>
-    <p style="font-size: 1.25em; color: #4b5563; margin-top: 0.5em; padding-bottom: 20px; border-bottom: 4px solid #4f46e5;">
-        <a href="https://www.credly.com/badges/2a8a278e-4daf-4634-8229-7baff04792e1" style="color: #4f46e5; text-decoration: underline; font-weight: bold;"> Alteryx Designer Core Certification </a></p>
+---
+
+### 🔧 What I'm Building
+
+- **[Music Trend Agent](https://github.com/kumarpranit/music-trend-agent)** — AI pipeline using LangGraph to scout emerging music trends and generate weekly intelligence reports
+- **[Food Agent](https://github.com/kumarpranit/food-agent)** — Full-stack restaurant discovery app with natural language search and real-time geolocation ([live demo](https://food-agent-zeta.vercel.app))
+- **[Toxic Moderator](https://github.com/kumarpranit/toxic-moderator)** — Content moderation system ensuring safety at scale
+- **[Feedback Hub](https://github.com/kumarpranit/feedback-hub)** — Tool to aggregate and analyze product feedback
+- **[Amazon Order Dashboard](https://github.com/kumarpranit/amazon-order-dashboard)** — Interactive analytics dashboard built with Plotly Dash
+- **[LLM Projects](https://github.com/kumarpranit/Large-Language-Model-Projects)** — Fine-tuning, RAG architectures, and prompt engineering experiments
+
+---
+
+### ✍️ Latest Writing
+
+I write about AI, product management, and Big Tech strategy on [my blog](https://kumarpranit.netlify.app/blog/) and [LinkedIn](https://www.linkedin.com/in/kumarpranit/).
+
+---
+
+### 🏆 Certifications
+
+- [Alteryx Designer Core Certification](https://www.credly.com/badges/alteryx)
+
+---
+
+### 📫 Connect
+
+- 🌐 [Portfolio](https://kumarpranit.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kumarpranit/)
+- 📧 pranit.kumar.2026@anderson.ucla.edu
